@@ -16,9 +16,9 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94741283795",
+  OWNER_NUMBER: "94754015815",
   SUDO_NUMBERS : "94713659729,94754015815",
-  OWNER_NAME: "『ᴋᴀʟɪɴᴅᴜ ᴅᴜʟᴀᴊᴢ』",
+  OWNER_NAME: " *_char¡Th_kaw¡nDa__>>._* ",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
@@ -35,7 +35,7 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
+  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴍᴅ ʙᴏᴛ',
   STICKER_PACK : '[ ZUSYCO ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
