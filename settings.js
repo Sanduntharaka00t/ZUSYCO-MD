@@ -19,7 +19,7 @@ module.exports = {
   OWNER_NUMBER: "94754015815",
   SUDO_NUMBERS : "94713659729,94754015815",
   OWNER_NAME: " *_char¡Th_kaw¡nDa__>>._* ",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  BOT_NAME : " *_char¡Th_kaw¡nDa__>>._* ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
