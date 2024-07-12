@@ -27,13 +27,13 @@ module.exports = {
     GOODBYE: 'https://telegra.ph/file/321e63879f4c8c90ce82b.jpg'
   },
   STOP_SEND : {
-        WELCOME_MESSAGE : false,
-        GOODBYE_MESSAGE : false,
+        WELCOME_MESSAGE : true,
+        GOODBYE_MESSAGE : true,
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "private",
-  WORK_MODE : "onlygroups",
+  WORK_MODE : "private",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ꜰɪʟᴇ ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴄ_ᴋᴀᴡɪɴᴅᴀ',
   STICKER_PACK : '[ mr.ck ]',
