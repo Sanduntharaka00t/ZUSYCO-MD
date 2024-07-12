@@ -32,8 +32,8 @@ module.exports = {
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
-  WORK_TYPE : "Public",
-  WORK_MODE : "onlygroups",
+  WORK_TYPE : "Private",
+  WORK_MODE : "onlyinbox",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ꜰɪʟᴇ ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴄ_ᴋᴀᴡɪɴᴅᴀ',
   STICKER_PACK : '[ mr.ck ]',
@@ -42,7 +42,7 @@ module.exports = {
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : false,
   ANTI_LINK_KICK : false,
-  MAX_SIZE : 100,
+  MAX_SIZE : 200,
   MOROCCO_NUMBERS : {
         BLOCK : false,
         NOT_WORKING : false,
@@ -50,11 +50,11 @@ module.exports = {
   READ : {
      ALL_MESSAGES : false,
      ONLY_COMMANDS : true,
-     STATUS : false,
+     STATUS : true,
   },
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
-  AUTO_REACT : true,
+  AUTO_REACT : false,
   OWNER_REACT : '👨🏻‍💻',
   
   AUTO_BGM : true,
